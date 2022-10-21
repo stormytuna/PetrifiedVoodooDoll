@@ -1,3 +1,5 @@
 This mod replaces the Guide Voodoo Doll that the Voodoo Demon drops with the Petrified Voodoo Doll
+
 The Petrified Voodoo Doll when equipped allows you to hurt any town NPC. Additionally, it can be crafted straight into a Guide Voodoo Doll or crafted with some silk to make the Clothier Voodoo Doll. It also prevents Voodoo Demons from summoning the Wall of Flesh if you kill them in the wrong area
+
 This mod also has a small config, letting you choose between an anvil or by hand for crafting the Guide Voodoo Doll
