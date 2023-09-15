@@ -1,21 +1,16 @@
-using Terraria.GameContent.Creative;
-using Terraria.ModLoader;
-using Terraria;
-using Terraria.ID;
-using Terraria.ModLoader.Config;
 using System.ComponentModel;
+using Terraria.ModLoader.Config;
 
-namespace PetrifiedVoodooDoll.Common.Configs
+namespace PetrifiedVoodooDoll.Common.Configs;
+
+public class ServerConfig : ModConfig
 {
-    public class ServerConfig : ModConfig
-    {
-        public static ServerConfig Instance;
+    public static ServerConfig Instance;
 
-        public override ConfigScope Mode => ConfigScope.ServerSide;
+    public override ConfigScope Mode => ConfigScope.ServerSide;
 
-        [Label("Guide Voodoo Doll recipe uses anvil")]
-        [DefaultValue(true)]
-        [ReloadRequired]
-        public bool guideDollUseAnvil { get; set; }
-    }
+    [Label("[i:35] Guide Voodoo Doll recipe uses anvil")]
+    [DefaultValue(true)]
+    [ReloadRequired]
+    public bool guideDollUseAnvil { get; set; }
 }

@@ -1,8 +1,7 @@
 using Terraria.ModLoader;
 
-namespace PetrifiedVoodooDoll
+namespace PetrifiedVoodooDoll;
+
+public class PetrifiedVoodooDoll : Mod
 {
-	public class PetrifiedVoodooDoll : Mod
-	{
-	}
 }

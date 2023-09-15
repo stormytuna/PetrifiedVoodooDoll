@@ -6,9 +6,21 @@ This mod also has a small config, letting you choose between an anvil or by hand
 
 [b]Changelog[/b]
 [list]
-[*][i]v1.3.0[/i]
+[*][i]v1.2.1[/i]
+[list]
+[*]Fix issues with enemies hitting themselves
+[/list]
+[*][i]v1.2.0[/i]
+[list]
+[*]Ported to 1.4.4
+[/list]
+[*][i]v1.1.0[/i]
 [list]
 [*]Made petrified dolls stack to 99
 [*]Made petrified dolls drop without prefixes
+[/list]
+[*][i]v1.0.0[/i]
+[list]
+[*]Released
 [/list]
 [/list]

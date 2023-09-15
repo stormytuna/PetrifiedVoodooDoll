@@ -1,0 +1,17 @@
+Configs: {
+	ServerConfig: {
+		DisplayName: Server Config
+
+		guideDollUseAnvil: {
+			Label: "[i:35] Guide Voodoo Doll recipe uses anvil"
+			Tooltip: ""
+		}
+	}
+}
+
+Items: {
+	PetrifiedVoodooDoll: {
+		Tooltip: ""
+		DisplayName: Petrified Voodoo Doll
+	}
+}
